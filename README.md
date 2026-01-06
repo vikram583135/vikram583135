@@ -61,7 +61,7 @@ I work across **Python (Django)**, **JavaScript/TypeScript**, **React / Next.js*
 📧 Email: **vikram583135@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/k-s-vinayaka-8793a7225/**  
 🐙 GitHub: **github.com/vikram583135**  
-💼 Portfolio: *(upload soon to GitHub Pages)*  
+💼 Portfolio: *https://vinayakaportfolio11.netlify.app/*  
 
 <p align="center">✨ Open for collaboration, contributions & exciting projects ✨</p>
 
